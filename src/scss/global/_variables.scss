@@ -1,12 +1,13 @@
 /* FONTS PATH */
-$fa-font-path: '../fonts';
+// $fa-font-path: '../fonts';
+// $fa-font-path: '../webfonts';
 
 $xs: 0;
 $sm: 540px;
 $md: 720px;
 $lg: 960px;
 $xl: 1140px;
-$xxl: 1640px;
+$xxl: 1440px;
 
 /*containers size*/
 $container-max-widths: (
@@ -28,16 +29,15 @@ $grid-breakpoints: (
 
 /*fonts*/
 
-/*colors*/
-/*
+/*COLORS*/
+$primary: #0072d2;
+$warning: #ffa800;
+$dark: #131318;
+$white: #ffffff;
+
 $theme-colors: (
-        "primary":    $primary,
-        "secondary":  $secondary,
-        "success":    $success,
-        "info":       $info,
-        "warning":    $warning,
-        "danger":     $danger,
-        "light":      $light,
-        "dark":       $dark
+  'primary': $primary,
+  'warning': $warning,
+  'dark': $dark,
+  'white': $white
 );
-*/
