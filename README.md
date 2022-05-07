@@ -10,6 +10,8 @@ Projeto com o intuito de testar o meu padrão criando um layout simples.
 
 •   HTML
 
+•   Bootstrap
+
 •   Sass
 
 
